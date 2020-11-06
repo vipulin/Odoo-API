@@ -22,7 +22,7 @@
 <section class="oe_container">
     <div class="oe_row oe_spaced">
         <div class="oe_span12">
-            <h3 class="oe_slogan">1. Create Product</h3>
+            <h3 class="oe_slogan">2. Create Product</h3>
         </div>
 	      <div class="oe_span6">
             <p class="oe_mt32">
@@ -34,7 +34,7 @@
 <section class="oe_container">
     <div class="oe_row oe_spaced">
         <div class="oe_span12">
-            <h3 class="oe_slogan">1. Call API Using Postman</h3>
+            <h3 class="oe_slogan">3. Call API Using Postman</h3>
         </div>
 	      <div class="oe_span6">
             <p class="oe_mt32">
