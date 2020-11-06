@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+    	<record id="view_res_users_api_form" model="ir.ui.view">
+    		<field name="name">res.users.api</field>
+    		<field name="model">res.users</field>
+    		<field name="inherit_id" ref="base.view_users_form"/>
+    		<field name="arch" type="xml">
+    			<xpath expr="//page[2]" position="after">
+    				<page name="api" string="API">
+    					<group>
+    						<button name="action_api_key" string="Generate Api Key" type="object"/>
+    					</group>
+    					<group>
+    						<group>
+    							<field name="api_key"/>
+    						</group>
+    						<group>
+    						</group>
+    					</group>
+    				</page>
+    			</xpath>
+    		</field>
+    	</record>
+    </data>
+</odoo>
