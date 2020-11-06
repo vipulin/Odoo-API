@@ -53,7 +53,7 @@
 		          Click on Send.
             </p>
             <p class="oe_mt32">
-              <h5>Response<h5>
+              <h5>Response</h5>
             </p>
             <p class="oe_mt32">
 		           {
