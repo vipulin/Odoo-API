@@ -8,7 +8,7 @@
 		          Login with authorized user for module installation -> update module list -> find 'products_api' module -> install.
             </p>
             <p class="oe_mt32">
-		          Once module installation will completed automatic one user will create with api_key 91906b00204711eb9d622c6e856ebaef. 
+		          Once module installation will complete automatic one user will create with api key 91906b00204711eb9d622c6e856ebaef. 
             </p>
             <p class="oe_mt32">
 		          If you want create new user:
